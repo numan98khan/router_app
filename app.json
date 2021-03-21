@@ -1,0 +1,12 @@
+{
+  "name": "router_app",
+  "displayName": "router_app",
+  "expo": {
+    "name": "router_app",
+    "slug": "router_app",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
